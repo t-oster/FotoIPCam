@@ -3,3 +3,12 @@ FotoIPCam...
 is a little Android App, which listens for HTTP Connections on Port 8080. If a client connects, it takes a picture with the Phone's camera and sends the result as JPEG to the requesting client.
 
 This App was created as Prototype for the VisiCut Tool. See http://hci.rwth-aachen.de/visicut for more information.
+
+Compile:
+
+Use Eclipse together with the Android SDK and Plugin to compile this project.
+A binary version may be upladed later
+
+License:
+
+This Software is copyright 2011 by Thomas Oster and licensed in terms of the GNU Lesser Public License (LGPL). See the file COPYING.LESSER for more Information
